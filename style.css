@@ -1,0 +1,91 @@
+body {
+    margin: 0px 120px 0px 120px;
+    background-color: rgb(178, 203, 236);
+    font-style: italic;
+    background-image: url("");
+    background-size: cover;
+}
+
+header {
+    color: rgb(47, 31, 131);
+}
+
+h1 {
+    color: rgb(54, 58, 136);
+    margin-left: 200px;
+}
+
+h2 {
+    color: rgb(50, 44, 99);
+    font-size: large;
+    margin-left: 320px;
+}
+
+h3 {
+    color: rgb(66, 49, 121);
+    font-size: small;
+    margin-left: 470px;
+}
+
+h4 {
+    color: rgb(76, 76, 116);
+    font-size: medium;
+    margin: 0%;
+}
+
+.topic {
+    padding-left: 300px;
+}
+
+.tituloh {
+    padding-left: 300px;
+}
+
+.titulo {
+    margin-top: 0;
+    background-color: rgb(162, 161, 189);
+    padding-top: 20px;
+}
+
+.corpo {
+    background-color: rgb(160, 159, 187);
+    width: 100%;
+    margin: 0 auto;
+    box-shadow: 0px 0px 15px rgb(33, 61, 103);
+    border-radius: 8px;
+    margin-left: px;
+
+}
+
+.corpo-curiosidades {
+    background-color: rgb(160, 159, 187);
+    width: 100%;
+    margin: 0 auto;
+    box-shadow: 0px 0px 15px rgb(33, 61, 103);
+    border-radius: 8px;
+    margin-left: px;
+
+}
+
+.foto {
+    display: flex;
+    justify-content: center;
+    margin-left: 200px;
+}
+
+.titulo1 {
+    margin-top: 0;
+    background-color: rgb(170, 168, 191);
+    padding-top: 20px;
+    color: rgb(51, 51, 107);
+}
+
+.video {
+    border-radius: 60px;
+    width: 120px;
+    height: 120px;
+}
+
+.imagem {
+    border: 3px;
+}
